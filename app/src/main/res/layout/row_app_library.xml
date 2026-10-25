@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:orientation="vertical" android:clipChildren="false" android:clipToPadding="false">
+    <com.gathin.tvhome.FavouritesShelf android:id="@+id/btnFavourites"
+        android:layout_width="match_parent" android:layout_height="220dp" />
+    <FrameLayout android:layout_width="match_parent" android:layout_height="50dp"
+        android:clipChildren="false" android:clipToPadding="false">
+        <TextView android:id="@+id/btnLibrary" style="@style/TopButton"
+            android:layout_gravity="center"
+            android:text="@string/app_library" android:textSize="15sp"
+            android:background="@null" android:textColor="#FFFFFFFF" android:drawableStart="@null" />
+        <TextView android:id="@+id/btnPick" style="@style/TopButton"
+            android:layout_gravity="end|center_vertical"
+            android:text="Pick something" android:textSize="15sp"
+            android:background="@null" android:textColor="#FFFFFFFF" android:drawableStart="@null" />
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,584 @@
+{
+  "snapshot": "2026-10-25",
+  "moods": [
+    {
+      "id": "tamil-tv",
+      "name": "Tamil TV",
+      "color": "#A78BFA"
+    },
+    {
+      "id": "comfort",
+      "name": "Comfort sitcom",
+      "color": "#F2B84B"
+    },
+    {
+      "id": "capes",
+      "name": "Capes and chaos",
+      "color": "#E5484D"
+    },
+    {
+      "id": "gotham",
+      "name": "Gotham after dark",
+      "color": "#D39153"
+    },
+    {
+      "id": "thalapathy",
+      "name": "Thalapathy mass",
+      "color": "#F49A56"
+    },
+    {
+      "id": "mind",
+      "name": "Mind games",
+      "color": "#6DAE8A"
+    },
+    {
+      "id": "all",
+      "name": "Anything at all",
+      "color": "#B8C0CC"
+    }
+  ],
+  "titles": [
+    {
+      "id": "bigg-boss-tamil",
+      "title": "Bigg Boss Tamil",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/bigg-boss/14455",
+      "moods": [
+        "tamil-tv"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "siragadikka-aasai",
+      "title": "Siragadikka Aasai",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/siragadikka-aasai/1260129356",
+      "moods": [
+        "tamil-tv"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "pandian-stores-2",
+      "title": "Pandian Stores 2",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/pandian-stores-2/1260000603",
+      "moods": [
+        "tamil-tv"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "chinna-marumagal",
+      "title": "Chinna Marumagal",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/chinna-marumagal/1260167204",
+      "moods": [
+        "tamil-tv"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "kanmani-anbudan",
+      "title": "Kanmani Anbudan",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/kanmani-anbudan/1271328975",
+      "moods": [
+        "tamil-tv"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "ayyanar-thunai",
+      "title": "Ayyanar Thunai",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/ayyanar-thunai/1271388570",
+      "moods": [
+        "tamil-tv"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "thendrale-mella-pesu",
+      "title": "Thendrale Mella Pesu",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/thendrale-mella-pesu/1271423778",
+      "moods": [
+        "tamil-tv"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "suttum-vizhi-sudare",
+      "title": "Suttum Vizhi Sudare",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/suttum-vizhi-sudare/1271518434",
+      "moods": [
+        "tamil-tv"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "azhagae-azhagu",
+      "title": "Azhagae Azhagu",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/azhagae-azhagu/1271525502",
+      "moods": [
+        "tamil-tv"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "thaai-maaman",
+      "title": "Thaai Maaman",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/thaai-maaman/1271632024",
+      "moods": [
+        "tamil-tv"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "onna-irukka-kaththukanum",
+      "title": "Onna Irukka Kaththukanum",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/onna-irukka-kaththukanum/1271650450",
+      "moods": [
+        "tamil-tv"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "kadhal-kadhal-kadhal",
+      "title": "Kadhal Kadhal Kadhal",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/kadhal-kadhal-kadhal/1271660314",
+      "moods": [
+        "tamil-tv"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "big-bang",
+      "title": "The Big Bang Theory",
+      "app": "com.netflix.ninja",
+      "url": "https://www.netflix.com/watch/70143830",
+      "moods": [
+        "comfort"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "friends",
+      "title": "Friends",
+      "app": "com.netflix.ninja",
+      "url": "https://www.netflix.com/watch/70153404",
+      "moods": [
+        "comfort"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "office",
+      "title": "The Office",
+      "app": "com.netflix.ninja",
+      "url": "https://www.netflix.com/watch/70136120",
+      "moods": [
+        "comfort"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "himym",
+      "title": "How I Met Your Mother",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/how-i-met-your-mother/8323",
+      "moods": [
+        "comfort"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "breaking-bad",
+      "title": "Breaking Bad",
+      "app": "com.netflix.ninja",
+      "url": "https://www.netflix.com/watch/70143836",
+      "moods": [
+        "mind"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "mentalist",
+      "title": "The Mentalist",
+      "app": "com.amazon.amazonvideo.livingroom",
+      "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.df50e4a1-2a2f-4886-953e-e9793658df1d",
+      "moods": [
+        "mind"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "flash",
+      "title": "The Flash",
+      "app": "com.amazon.amazonvideo.livingroom",
+      "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ece1644d-f745-416e-9d6a-364ff0baa549",
+      "moods": [
+        "capes"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "no-way-home",
+      "title": "Spider-Man: No Way Home",
+      "app": "com.netflix.ninja",
+      "url": "https://www.netflix.com/watch/81465707",
+      "moods": [
+        "capes"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "batman-begins",
+      "title": "Batman Begins",
+      "app": "com.amazon.amazonvideo.livingroom",
+      "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ea9f6e4-c7d9-319f-e828-d79a8bb85e05",
+      "moods": [
+        "gotham"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "dark-knight",
+      "title": "The Dark Knight",
+      "app": "com.amazon.amazonvideo.livingroom",
+      "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4aa9f68b-5e9d-1955-a451-d4d0087ef56c",
+      "moods": [
+        "gotham"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "dark-knight-rises",
+      "title": "The Dark Knight Rises",
+      "app": "com.amazon.amazonvideo.livingroom",
+      "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2eb2f316-ed27-a548-448f-5a090b007709",
+      "moods": [
+        "gotham"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "master",
+      "title": "Master",
+      "app": "com.amazon.amazonvideo.livingroom",
+      "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2cbb8fd7-09ac-ec8f-9bb3-5939da8108cd",
+      "moods": [
+        "thalapathy"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "leo",
+      "title": "Leo",
+      "app": "com.netflix.ninja",
+      "url": "https://www.netflix.com/watch/81639319",
+      "moods": [
+        "thalapathy"
+      ],
+      "posterLabel": "LEO",
+      "kind": "movie"
+    },
+    {
+      "id": "goat",
+      "title": "The Greatest of All Time",
+      "app": "com.netflix.ninja",
+      "url": "https://www.netflix.com/watch/81762714",
+      "moods": [
+        "thalapathy"
+      ],
+      "posterLabel": "THE GREATEST\nOF ALL TIME",
+      "kind": "movie"
+    },
+    {
+      "id": "modern-family",
+      "title": "Modern Family",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/modern-family/8549",
+      "moods": [
+        "comfort"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "new-girl",
+      "title": "New Girl",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/new-girl/8538",
+      "moods": [
+        "comfort"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "malcolm",
+      "title": "Malcolm in the Middle",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/malcolm-in-the-middle/12117",
+      "moods": [
+        "comfort"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "fresh-off-boat",
+      "title": "Fresh Off the Boat",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/fresh-off-the-boat/8368",
+      "moods": [
+        "comfort"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "abbott",
+      "title": "Abbott Elementary",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/abbott-elementary/1260078117",
+      "moods": [
+        "comfort"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "arrested",
+      "title": "Arrested Development",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/arrested-development/11952",
+      "moods": [
+        "comfort"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "avengers-endgame",
+      "title": "Avengers: Endgame",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/movies/avengers-endgame/1260013556",
+      "moods": [
+        "capes"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "infinity-war",
+      "title": "Avengers: Infinity War",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/movies/avengers-infinity-war/1660010677",
+      "moods": [
+        "capes"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "iron-man",
+      "title": "Iron Man",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/movies/iron-man/1660000038",
+      "moods": [
+        "capes"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "thor-ragnarok",
+      "title": "Thor: Ragnarok",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/movies/thor-ragnarok/1660010577",
+      "moods": [
+        "capes"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "winter-soldier",
+      "title": "Captain America: The Winter Soldier",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/movies/captain-america-the-winter-soldier/1260016410",
+      "moods": [
+        "capes"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "guardians",
+      "title": "Guardians of the Galaxy",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/movies/guardians-of-the-galaxy/1260018294",
+      "moods": [
+        "capes"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "loki",
+      "title": "Loki",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/loki/1260063451",
+      "moods": [
+        "capes"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "moon-knight",
+      "title": "Moon Knight",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/moon-knight/1260089681",
+      "moods": [
+        "capes"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "batman-2022",
+      "title": "The Batman",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/movies/the-batman/1271608356",
+      "moods": [
+        "gotham"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "joker",
+      "title": "Joker",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/movies/joker/1971000402",
+      "moods": [
+        "gotham"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "thuppakki",
+      "title": "Thuppakki",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/movies/thuppakki/1000035948",
+      "moods": [
+        "thalapathy"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "nanban",
+      "title": "Nanban",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/movies/nanban/1000036211",
+      "moods": [
+        "thalapathy"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "penguin",
+      "title": "The Penguin",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/the-penguin/1971003606",
+      "moods": [
+        "gotham"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "justice-league",
+      "title": "Justice League",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/movies/justice-league/1971011083",
+      "moods": [
+        "gotham"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "true-detective",
+      "title": "True Detective",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/true-detective/1971002860",
+      "moods": [
+        "mind"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "only-murders",
+      "title": "Only Murders in the Building",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/only-murders-in-the-building/1260067362",
+      "moods": [
+        "mind"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "criminal-justice",
+      "title": "Criminal Justice",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/criminal-justice/1271316088",
+      "moods": [
+        "mind"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "night-of",
+      "title": "The Night Of",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/the-night-of/1971003017",
+      "moods": [
+        "mind"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "mare-easttown",
+      "title": "Mare of Easttown",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/mare-of-easttown/1971002858",
+      "moods": [
+        "mind"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "sharp-objects",
+      "title": "Sharp Objects",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/shows/sharp-objects/1971003014",
+      "moods": [
+        "mind"
+      ],
+      "kind": "show"
+    },
+    {
+      "id": "suicide-squad",
+      "title": "The Suicide Squad",
+      "app": "in.startv.hotstar",
+      "url": "https://www.hotstar.com/in/movies/the-suicide-squad/1271608339",
+      "moods": [
+        "gotham"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "beast-tamil",
+      "title": "Beast (Tamil)",
+      "app": "com.netflix.ninja",
+      "url": "https://www.netflix.com/watch/81508241",
+      "moods": [
+        "thalapathy"
+      ],
+      "kind": "movie"
+    }
+  ]
+}

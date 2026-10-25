@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingLeanbackLauncher">
+    <!-- Intentional headless widget companion: Home reads its provider; no extra launcher tile is needed. -->
+
+    <uses-feature android:name="android.software.leanback" android:required="false" />
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+
+    <!-- The only permission: Open-Meteo, for the place search, the weather and the air quality. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="false"
+        android:banner="@drawable/banner"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="false"
+        android:theme="@android:style/Theme.Material.NoActionBar.Fullscreen">
+        <provider android:name=".CurrentWeatherProvider" android:authorities="com.newtv.weather"
+            android:exported="true" />
+
+        <activity
+            android:name=".WeatherActivity"
+            android:exported="true"
+            android:screenOrientation="landscape">
+            <!-- Clean Your TV module card (docs/specs/card.md): the tile shows as "Weather" once the owner says Show. -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.gathin.tvhome.category.DOCK_CARD" />
+            </intent-filter>
+            <meta-data android:name="com.gathin.tvhome.card" android:resource="@xml/module_card" />
+        </activity>
+    </application>
+</manifest>
